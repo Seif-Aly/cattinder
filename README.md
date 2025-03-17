@@ -46,4 +46,4 @@ A Tinder for Cats demo app.lets you like or dislike cats throw swipe or buttons.
 
 ## Download
 
-- [APK File](build/app/outputs/flutter-apk/app-release.apk)
+- [APK File](https://disk.yandex.ru/d/xnidJCIfLzsbRg)
